@@ -2,7 +2,7 @@
 本工程对android的binder主要代码进行注释、说明
 Binder是android系统的精华，包括kernel驱动以及应用层框架
 
-kernel驱动代码结构：
+##kernel驱动代码结构：
 drivers/android
     -Kcong
     -Makefile
