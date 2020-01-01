@@ -6,7 +6,7 @@ Binder是android系统的精华，包括kernel驱动以及应用层框架
 >drivers/android<br>
 --Kcong<br>
 --Makefile<br>
---binder.c<br>
+[--binder.c](/kernel/drivers/android/binder_c.md)<br>
 --binder_alloc.c<br>
 --binder_alloc.h<br>
 --binder_alloc_selftest.c<br>
@@ -14,4 +14,4 @@ Binder是android系统的精华，包括kernel驱动以及应用层框架
 include/uapi/linux/android<br>
 --binder.h<br>
 
-本文亦奖按照binder源码结构，对核心源码文件逐一进行注解
+本文亦奖按照binder源码结构，对核心源码文件逐一进行注解`
